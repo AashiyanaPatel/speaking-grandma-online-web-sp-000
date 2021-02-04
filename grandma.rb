@@ -1,8 +1,9 @@
 def speak_to_grandma(speak)
-  if speak == speak, upcase
-    "NO, NOT SINCE 1938!"
-  else 
-    "HUH, SPEAK UP, SONNY!"
+  to_grandma - gets.chomp!
+  if to_grandma == to_grandma.upcase
+    puts "NO, NOT SINCE 1938"
+  else
+    puts "SPEAK UP, SONNY"
   end
 end
 
