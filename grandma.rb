@@ -1,10 +1,10 @@
 def speak_to_grandma(speak)
   to_grandma - gets.chomp!
   if to_grandma == to_grandma.upcase
-    
-    puts "NO, NOT SINCE 1938"
-  else
     puts "HUH, SPEAK UP, SONNY"
+  else  "NO, NOT SINCE 1938"
+end
+  elsif  "I LOVE YOU GRAMDMA"
   end
 end
 puts "HAVE A GOOD DAY NOW"
