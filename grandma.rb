@@ -9,8 +9,7 @@ def speak_to_grandma(speak)
     puts "I LOVE YOU GRAMDMA"
   elsif "I LOVE YOU TOO PUMPKIN!"
   end
-end
-puts "HAVE A GOOD DAY NOW"
+
 
 # Write a speak_to_grandma method.
 
