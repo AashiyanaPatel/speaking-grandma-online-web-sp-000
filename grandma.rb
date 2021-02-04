@@ -6,7 +6,7 @@ def speak_to_grandma(speak)
     puts "SPEAK UP, SONNY"
   end
 end
-
+puts "HAVE A GOOD DAY NOW"
 
 # Write a speak_to_grandma method.
 
